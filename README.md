@@ -1,9 +1,3 @@
-![Demo2APK](assets/image.png)
-
-# Demo2APK 🚀
-
-Turn your Vibe Coding ideas into runnable Android Apps instantly.
-
 ## Architecture
 
 ```
